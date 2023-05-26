@@ -75,6 +75,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   just-the-docs (= 0.5.0)
+  jekyll-default-layout (~> 0.1.4)
 
 BUNDLED WITH
    2.3.9
