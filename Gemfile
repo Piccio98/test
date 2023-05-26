@@ -5,7 +5,3 @@ gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 
 gem "just-the-docs" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
-
-gem 'jekyll-include-cache'
-
-gem "jekyll-feed"
